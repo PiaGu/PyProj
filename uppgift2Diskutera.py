@@ -1,3 +1,4 @@
+#Veckouppgift 1, övning 2
 #Biljettpris, räknar ut pengar kvar, samt hälften av pengarna kvar.
 
 biljettpris = 100  # biljettpris
