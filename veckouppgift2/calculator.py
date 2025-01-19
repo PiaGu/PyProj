@@ -3,13 +3,14 @@
 try:
     tal1, tal2, tal3 = map(int, input("Ange tre heltal, separerade med mellanslag: ").split())
 except ValueError:
-    print("Felaktig inmatning. Se till att ange tre giltiga heltal!")
+    print("Felaktig inmatning. Se till att ange tre giltiga heltal! Programmet avslutas")
     exit()
-#Summera ihop talen och skriv ut talen och summan
+    
+#Summera ihop talen och skriv ut
 total_sum= tal1 + tal2 + tal3
 print(f"De tre talen är: {tal1}, {tal2}, {tal3}\nSumman av talen: {total_sum}")
 
-#Jämför talen och vilket tal som är störst
+#Jämför talen och ifall något tal är störst
 if tal1 > tal2 and tal1 > tal3:
     print (f"Tal 1 är {tal1} vilket är större än tal 2 som är {tal2} och tal 3 som är {tal3}")
 elif tal2 > tal1 and tal2 > tal3:
@@ -26,12 +27,11 @@ elif tal1 == tal3:
     print(f"Tal 1 är lika stort som tal3")
 elif tal2 == tal3:
     print(f"Tal 2 är lika stort som tal3")
-#Om talen är olika, skriv ut det som är i mitten
-else:
+else:      #Om talen är olika, skriv ut det som är i mitten        
     if tal2 < tal1 < tal3:
         print(f"Tal 1 är i mitten")
     elif tal1 < tal2 < tal3:
-         print(f"Tal 2 är i mitten")
+        print(f"Tal 2 är i mitten")
     else:
         print(f"Tal 3 är i mitten")
 
