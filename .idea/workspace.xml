@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df585b99-7069-46ad-8e82-c460247c0404" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="df585b99-7069-46ad-8e82-c460247c0404" name="Changes" comment="vecka 3">
+      <change afterPath="$PROJECT_DIR$/veckouppgift4/diskutera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PiaGu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PiaGu/PyProj",
+    "accountId": "c5304c24-8256-4a76-9699-493e6cc60ea3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -38,9 +46,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Uppgift3_1_A.executor": "Run",
+    "Python.balder.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.diskusson_v2.executor": "Run",
+    "Python.diskutera.executor": "Run",
+    "Python.diskutera5.executor": "Run",
+    "Python.figurer.executor": "Run",
+    "Python.filmlista.executor": "Run",
+    "Python.gissa_talet.executor": "Run",
+    "Python.gissa_talet_2.executor": "Run",
+    "Python.kladd.executor": "Run",
+    "Python.kladd2.executor": "Run",
+    "Python.kvitto.executor": "Run",
+    "Python.kvitto2.executor": "Run",
+    "Python.kvitto3_fixad.executor": "Run",
+    "Python.loopar_och_listor.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.sportresultat.executor": "Run",
+    "Python.sportresultat2.executor": "Run",
+    "Python.temperaturomvandling.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.todo_list.executor": "Run",
+    "Python.todo_list_2.executor": "Run",
+    "Python.uppgift2Diskutera.executor": "Run",
+    "Python.uppgift_3_2_ab.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -59,6 +92,150 @@
       <option name="presentableId" value="Default" />
       <updated>1736434586127</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1736436259219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736436259220</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1736437133949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736437133949</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1736438639959</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736438639959</updated>
+    </task>
+    <task id="LOCAL-00004" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1736531131024</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736531131024</updated>
+    </task>
+    <task id="LOCAL-00005" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1736531219847</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736531219847</updated>
+    </task>
+    <task id="LOCAL-00006" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1736532859320</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736532859320</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first version">
+      <option name="closed" value="true" />
+      <created>1736637576751</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736637576751</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first version">
+      <option name="closed" value="true" />
+      <created>1736696375938</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736696375938</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first version">
+      <option name="closed" value="true" />
+      <created>1736700288466</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736700288466</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first version">
+      <option name="closed" value="true" />
+      <created>1737236649697</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737236649697</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first version">
+      <option name="closed" value="true" />
+      <created>1737303234347</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737303234347</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Second version">
+      <option name="closed" value="true" />
+      <created>1737304613580</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737304613580</updated>
+    </task>
+    <task id="LOCAL-00013" summary="vecka 3">
+      <option name="closed" value="true" />
+      <created>1738494461542</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738494461543</updated>
+    </task>
+    <task id="LOCAL-00014" summary="vecka 3">
+      <option name="closed" value="true" />
+      <created>1738494632582</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738494632582</updated>
+    </task>
+    <task id="LOCAL-00015" summary="vecka 3">
+      <option name="closed" value="true" />
+      <created>1738494641971</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738494641971</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="third commit" />
+    <MESSAGE value="first version" />
+    <MESSAGE value="Second version" />
+    <MESSAGE value="vecka 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="vecka 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/veckouppgift2/balder.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/veckuppgift3/filmlista.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
